@@ -124,7 +124,6 @@ class node:
 			return True
 		return False
 arv= tree()
-escolha = 0
 '''no = node("D")
 no2 = node("A")
 no3 = node("E")
